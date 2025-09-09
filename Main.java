@@ -64,3 +64,24 @@ public class Main {
 
     }
 }
+
+---OUTPUT---
+Caught Exception: Invald Age:200
+
+HELLLOOOOO!
+File read successfully.
+File not found: src/Example1.txt
+
+Result: 61
+Error: For input string: "abc"
+
+Remaining Balance: 995.0
+
+Grade is valid!100
+
+Handled inside DataProcessor: Data not found
+Handled in main: Data not found
+
+Found: Alice
+Handled: Student not found with ID: 10
+Search operation finished.
